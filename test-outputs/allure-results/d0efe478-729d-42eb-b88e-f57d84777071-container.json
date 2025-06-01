@@ -1,0 +1,1 @@
+{"uuid":"d0efe478-729d-42eb-b88e-f57d84777071","name":"PlaceOrder_TC.setUp","children":["ddb4d30d-21cb-4f20-b561-6e5f7788f8a4"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1748766752883,"stop":1748766791532}],"afters":[],"start":1748766752882,"stop":1748766791532}
